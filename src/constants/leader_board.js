@@ -1,0 +1,26 @@
+const leaderboard = [
+  {id: 1, name: 'Alice', score: 120},
+  {id: 2, name: 'Bob', score: 100},
+  {id: 3, name: 'Charlie', score: 90},
+  {id: 4, name: 'David', score: 80},
+  {id: 5, name: 'Emma', score: 75},
+  {id: 6, name: 'Frank', score: 70},
+  {id: 7, name: 'Grace', score: 65},
+  {id: 8, name: 'Henry', score: 60},
+  {id: 9, name: 'Ivy', score: 55},
+  {id: 10, name: 'Jack', score: 50},
+  {id: 11, name: 'Katherine', score: 45},
+  {id: 12, name: 'Leo', score: 40},
+  {id: 13, name: 'Mia', score: 35},
+  {id: 14, name: 'Noah', score: 30},
+  {id: 15, name: 'Olivia', score: 25},
+  {id: 16, name: 'Paul', score: 20},
+  {id: 17, name: 'Quinn', score: 15},
+  {id: 18, name: 'Ryan', score: 10},
+  {id: 19, name: 'Sophia', score: 5},
+  {id: 20, name: 'Ursula', score: 2},
+  {id: 21, name: 'Tom', score: 1},
+  {id: 22, name: 'Vincent', score: 1},
+];
+
+export default leaderboard;
